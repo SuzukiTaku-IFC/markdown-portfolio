@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. 時計
+2. テレビ
+3. ベッド
+   1. シングルベッド
+   2. ダブルベッド
